@@ -1,0 +1,11 @@
+body{
+    background-image: url(../_imagenes/b.jpg);
+}
+.log{
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+}

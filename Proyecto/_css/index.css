@@ -1,0 +1,29 @@
+.tt{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.lib{
+    margin: 5px;
+}
+.taim{
+    width: 30%;
+    margin-right: 5px;
+}
+.cate{
+    color:white;
+    display: inline-block;
+    padding-top: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+.bus{
+    width: 10%;
+    margin-right: 5px;
+}
+hr{
+    margin-top: 3%;
+    margin-bottom: 1%;
+}
